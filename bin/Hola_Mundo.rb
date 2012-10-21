@@ -1,1 +1,3 @@
-puts "Hola Mundo\n"
+puts "Introduce tu nombre: "
+cadena = gets.chomp
+puts "Hola " + cadena
